@@ -30,8 +30,8 @@ p{
 .box{
     background: hsl(0, 0%, 100%);
     width: 25%;
-    margin: 100px auto;
-    height: 72vh;
+    margin: 70px auto;
+    height: 80vh;
     padding: 15px;
     border-radius: 25px;
     max-width: 1000px;
